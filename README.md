@@ -31,8 +31,8 @@ npm start
 Open http://localhost:3000
 
 ## Features
-- 🧠 Agent thinking sidebar — see every tool call + result
-- 📊 Stats: questions asked, tool calls made, tokens used
-- ⚡ Context summarisation when history gets too long
-- 🔍 Quick question buttons for instant demos
+-  Agent thinking sidebar — see every tool call + result
+-  Stats: questions asked, tool calls made, tokens used
+-  Context summarisation when history gets too long
+-  Quick question buttons for instant demos
 - 3 Tools: web search, calculator, document retrieval
