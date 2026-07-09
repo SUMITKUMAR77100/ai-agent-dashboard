@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+groq
+tiktoken
+python-dotenv
+pydantic
